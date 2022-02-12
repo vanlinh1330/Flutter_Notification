@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49789774277",
+    "project_id": "flutter-fcm-1368b",
+    "storage_bucket": "flutter-fcm-1368b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49789774277:android:81830a39fe1e0569a1c3ac",
+        "android_client_info": {
+          "package_name": "com.example.buoi3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49789774277-5kbtstqas01i5hguv59glij3firtlv4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5NDpnNtZJBYOLOwievL_3nE8Ujm3C5yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49789774277-5kbtstqas01i5hguv59glij3firtlv4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
